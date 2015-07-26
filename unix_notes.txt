@@ -509,3 +509,4 @@ HEAD points to most recent commit on the current branch
   301  open moving_around_terminal.txt
   302  less moving_around_terminal.txt
   303  history >> moving_around_terminal.txt
+add
